@@ -1,5 +1,3 @@
-# Part 1
-
 import itertools
 
 def intcode(code, inp, start=0):
